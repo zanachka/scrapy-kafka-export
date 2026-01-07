@@ -1,0 +1,7 @@
+./setup.py
+./install-kafka.sh
+./scrapy_kafka_export/extensions.py
+./scrapy_kafka_export/utils.py
+./scrapy_kafka_export/writer.py
+./scrapy_kafka_export/__init__.py
+./tests/test_extension.py
